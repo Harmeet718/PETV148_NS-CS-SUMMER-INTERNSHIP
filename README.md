@@ -27,7 +27,7 @@ HTML
 CSS
 Installation
 Clone the repository
-git clone https://github.com/sarthakdhir-1005/website-metadata-extractor.git
+git clone https://github.com/Harmeet718/website-metadata-extractor.git
 Move into the project folder
 cd website-metadata-extractor
 Install dependencies
@@ -60,7 +60,7 @@ Scan additional document types
 Improve technology detection
 Generate detailed reports
 Author
-Harmeet Singh
+Harmeet singh
 
 GitHub: https://github.com/Harmeet718
 
